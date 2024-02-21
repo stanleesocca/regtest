@@ -1,9 +1,8 @@
 
 #' Split a string
 #'
-#' @param x A character vector with, at most, one element.
+#' @param string A character vector with, at most, one element.
 #' @inheritParams stringr::str_split
-#' @param split What to split on.
 #'
 #' @return A character vector.
 #' @export
